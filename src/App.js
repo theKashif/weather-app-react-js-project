@@ -101,8 +101,8 @@ function App() {
       {
         weather.error && (
           <>
-          {/*<br></br>
-          <br></br>*/}
+          <br></br>
+          <br></br>
           <span className='error-message'>
             {/* <span style={{ 'font'}}> */}
               ❌ Sorry city not found, please try again.
