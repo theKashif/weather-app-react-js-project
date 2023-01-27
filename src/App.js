@@ -94,7 +94,7 @@ function App() {
       {
         weather.loading && (
           <>
-           <br></br>
+           
                       {/* <br></br> */}
           <h4>Loading...</h4>
           </>
